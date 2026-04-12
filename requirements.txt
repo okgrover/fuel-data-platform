@@ -3,3 +3,7 @@ fastapi
 uvicorn
 openpyxl
 matplotlib
+statsmodels
+scikit-learn
+plotly
+seaborn

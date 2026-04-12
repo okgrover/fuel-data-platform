@@ -1,0 +1,6 @@
+region,fuel_type,price_type,mean_price,std_price,min_price,max_price,record_count
+Europe,Petrol,Retail,53.43,23.76,1.25,146.25,8675
+Global,Crude Oil,Wholesale,39.8,30.61,1.21,132.83,675
+UK,Motor Spirit 4 Star Lrp Pence Per Litre Note 1,Retail,1.03,0.18,0.55,1.15,423
+UK,Motor Spirit Premium Unleaded Ulsp Pence Per Litre Note 1 2,Retail,1.23,0.42,0.51,2.36,423
+UK,Motor Spirit Super Unleaded Pence Per Litre Note 1,Retail,1.33,0.44,0.54,2.49,423

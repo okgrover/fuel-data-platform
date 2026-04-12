@@ -1,0 +1,24 @@
+{
+  "export_date": "2026-04-10T23:53:59.826471",
+  "date_range": {
+    "start": "1970-01-01T00:00:00",
+    "end": "2026-03-01T00:00:00"
+  },
+  "regions": [
+    "Global",
+    "UK",
+    "Europe"
+  ],
+  "fuel_types": [
+    "Crude Oil",
+    "Motor Spirit 4 Star Lrp Pence Per Litre Note 1",
+    "Motor Spirit Super Unleaded Pence Per Litre Note 1",
+    "Motor Spirit Premium Unleaded Ulsp Pence Per Litre Note 1 2",
+    "Petrol"
+  ],
+  "price_types": [
+    "Wholesale",
+    "Retail"
+  ],
+  "total_records": 10619
+}

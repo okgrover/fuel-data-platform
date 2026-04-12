@@ -1,0 +1,14 @@
+{
+  "published_at_utc": "2026-04-10T23:08:41.187959Z",
+  "canonical_currency": "USD",
+  "dataset_files": [
+    "source1_audited.csv",
+    "source2_audited.csv",
+    "source3_audited.csv"
+  ],
+  "checks_passed": [
+    "required_schema_columns",
+    "currency_consistency",
+    "conversion_metadata_presence"
+  ]
+}
